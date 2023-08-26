@@ -1,0 +1,13 @@
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Face Detection App</string>
+    <string name="status">Status: Running</string>
+    <string name="stop_services">Stop Services</string>
+    <string name="register">Register</string>
+    <string name="telegram_id">Telegram ID</string>
+    <string name="bot_key">Bot Key</string>
+    <string name="telegram_id_required">Telegram ID is required</string>
+    <string name="bot_key_required">Bot Key is required</string>
+</resources>
+```
